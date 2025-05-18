@@ -67,10 +67,6 @@ Based on the problem and objective formal definition, the data sales transaction
 3. Third Moment Business Decision: Skewness
 4. Forth Moment Business Decision: Kurtosis
 
-**[Click here to view full documentation of data preprocessing and descriptive statistics](https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/blob/main/Full-Project-Code.ipynb)**
-
----
-
 ## 📂 Task 3 - Exploratory Data Analysis (EDA) 
 
 ### Background Information
